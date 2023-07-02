@@ -17,10 +17,10 @@ h1 {
   background: linear-gradient(180deg, rgb(122, 74, 14) , rgb(245, 62, 113), rgb(162, 27, 27));
 }
 
-  .green {
+ .green {
     background-color: rgb(0, 127, 0);
   }
   
-  .blue {
-  background-color: hsl(240, 100%, 50%);
-}
+.blue {
+    background: hsl(240, 100%, 50%);
+  }
